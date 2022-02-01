@@ -1,0 +1,13 @@
+{
+  "name": "Social Media Blocker",
+  "version": "1.0",
+  "description": "Blocks social media websites !",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["Content.js"]
+    }
+  ],
+  "permissions": ["history"],
+  "manifest_version": 2
+}
