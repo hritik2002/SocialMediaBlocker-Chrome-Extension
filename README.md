@@ -1,4 +1,4 @@
-# AdBlocker-Chrome-Extension
+# Social media Blocker-Chrome-Extension
 
 Before the extension is turned on , when you open facebook on your web : 
 ![facebookPage](https://user-images.githubusercontent.com/72138429/151920995-6b5e2154-5727-4082-832f-8b2f2ae1f26e.png)
